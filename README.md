@@ -1,6 +1,7 @@
 # Openshift Foreman Cartridge
 
 This cartridge for OpenShift allows you to configure and use [Foreman](https://github.com/ddollar/foreman) to run processes in the background.
+This fork addes auto scaling capabilities to the original cartridge.
 
 # Installation
 Once you have an existing OpenShift application, run the following command:
